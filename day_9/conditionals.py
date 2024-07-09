@@ -1,5 +1,5 @@
 #Level 1
-"""age = (int) (input("Enter your age: "))
+age = (int) (input("Enter your age: "))
 if age >= 18:
     print("You are old enough to learn to drive.")
 else:
@@ -62,7 +62,7 @@ if not new_fruit in fruits:
     fruits.append(new_fruit)
     print(fruits)
 else:
-    print('That fruit already exist in the list')"""
+    print('That fruit already exist in the list')
 
 person={
     'first_name': 'Asabeneh',
